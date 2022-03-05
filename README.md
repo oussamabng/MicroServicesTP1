@@ -1,2 +1,1 @@
-![alt text](https://github.com/oussamabng/MicroServicesTP1/tree/main/src/main/resources/static/img1.jpeg?raw=true)
-![alt text](https://github.com/oussamabng/MicroServicesTP1/tree/main/src/main/resources/static/img2.jpeg?raw=true)
+<img src="https://user-images.githubusercontent.com/47861021/156885999-f2be3f26-d0b5-4b80-8cbb-ebe6721117b7.jpeg" width="90%"></img> <img src="https://user-images.githubusercontent.com/47861021/156886004-50128c52-b468-4604-b007-3be8073589d2.jpeg" width="90%"></img> 
